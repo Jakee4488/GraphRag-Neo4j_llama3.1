@@ -8,7 +8,7 @@ Based on the available information, here's a draft README for your repository:
 
 ## Description
 
-GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG (Relational Adjacency Graph) using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
+GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG  using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
 
 ## Features
 
