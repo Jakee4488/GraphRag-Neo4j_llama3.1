@@ -1,9 +1,3 @@
-The README.md file currently has only the initial commit. There are no existing documentation files or key functions/classes indexed in the repository.
-
-Based on the available information, here's a draft README for your repository:
-
----
-
 # GraphRag-Neo4j_llama3.1
 
 ## Description
