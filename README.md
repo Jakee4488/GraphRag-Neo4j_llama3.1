@@ -1,7 +1,6 @@
 # GraphRag-Neo4j_llama3.1
 
 ## Description
-
 GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG  using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
 
 ## Features
@@ -27,11 +26,12 @@ GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG  using Neo4j and llama
    ```
 
 2. Install the required Python packages:
+
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Set up the Neo4j database and configure connection settings in the project.
+4. Set up the Neo4j database and configure connection settings in the project.
 
 ## Usage
 
