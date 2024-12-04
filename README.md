@@ -16,6 +16,7 @@ GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG  using Neo4j and llama
 - Python 3.8 or higher
 - Neo4j Database
 - Docker (optional, for containerized deployment)
+- 
 
 ### Steps
 
